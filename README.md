@@ -1,9 +1,10 @@
 # Room Zoom Clone App
 
-(file:///home/aquib/Pictures/Zoom%20Clone/Home.png)
+
 
 [Link:](https://room-zoom-clone-app.vercel.app/)
 
+file:///home/aquib/Pictures/Zoom%20Clone/Home.png
 
 
 ## Introduction
