@@ -1,10 +1,11 @@
 # Room Zoom Clone App
 
+<img width="1440" alt="Home" src="https://github.com/Aq7853gehc/Room_zoom_clone_app/assets/126333980/82aa2d8d-e8d6-4262-a8ff-18ce61a1bece">
 
 
 [Link:](https://room-zoom-clone-app.vercel.app/)
 
-file:///home/aquib/Pictures/Zoom%20Clone/Home.png
+
 
 
 ## Introduction
